@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vmoUUjWZdKCIUXWMiLVezZTsul4pfunXjfMhvExk0VU=",
+  "Source": "Back-end",
+  "BasePath": "_content/Back-end",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Back-end\\wwwroot",
+      "Source": "Back-end",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Proyecto Udemy\\Back-end\\Back-end\\wwwroot\\",
+      "BasePath": "_content/Back-end",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Proyecto Udemy\\Back-end\\Back-end\\wwwroot\\actores\\6a8a5a3b-67b9-4562-9662-4d26c19133e6.jpg",
+      "SourceId": "Back-end",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Proyecto Udemy\\Back-end\\Back-end\\wwwroot\\",
+      "BasePath": "_content/Back-end",
+      "RelativePath": "actores/6a8a5a3b-67b9-4562-9662-4d26c19133e6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\6a8a5a3b-67b9-4562-9662-4d26c19133e6.jpg"
+    }
+  ]
+}
